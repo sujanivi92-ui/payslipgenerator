@@ -2,7 +2,7 @@
   "name": "vetri-login",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sujanivi92-ui.github.io/vetri-login",
+  "homepage": "https://sujanivi92-ui.github.io/payslipgenerator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
